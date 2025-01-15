@@ -14,7 +14,7 @@
     </div>
     <div class="flex flex-col gap-2 justify-center mr-10 text-xs opacity-60">
       <p>gopanchuk.dm@mail.ru</p>
-      <p>tg: @tatuti_tata</p>
+      <p>tg: @PointOfVue</p>
       <p>+375(29)537-07-80</p>
     </div>
   </div>
